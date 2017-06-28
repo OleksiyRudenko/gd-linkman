@@ -23,6 +23,7 @@ Convert GDSS into Microsoft Office types on the fly.
 
 Features:
  * Convert and download link for GDSS
+ * GDSS converted to either MSO document or pdf
  * Direct download link for other types
  * goo.gl url shortener embedded
  * access shortcut (anyone with the link can view/download)

@@ -235,6 +235,7 @@ and Google Drive Apps building practices:
  * [Drive App Examples](https://developers.google.com/drive/v3/web/examples/)
  * [ngclipboard](https://sachinchoolur.github.io/ngclipboard/)
  * [AngularJS Yarn-Webpack boilerplate](https://github.com/kenzanmedia/angularjs-webpack-seed)
+ * [AngularJS Yarn-Webpack Dev Environment](https://github.com/Matt-Dionis/angularjs-development-environment)
 
 ### ExportLink script
 [ExportLink](https://google.com/?q=ExportLink+google+script)

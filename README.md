@@ -18,7 +18,7 @@ You may also want to track access activities.
 
 ## Contents
  * [Solution](#solution)
- * [Features explained](#features-explainded)
+ * [Features explained](#features)
  * [Installation](#installation)
  * [Credits](#credits)
  * [Copyright](#copyright)

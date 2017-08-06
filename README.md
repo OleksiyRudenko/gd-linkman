@@ -231,9 +231,10 @@ and Google Drive Apps building practices:
 [[back to contents]](#contents)
 
 ## Resources
-* [Drive API](https://developers.google.com/drive/v3/web/install)
-* [Drive App Examples](https://developers.google.com/drive/v3/web/examples/)
-* [ngclipboard](https://sachinchoolur.github.io/ngclipboard/)
+ * [Drive API](https://developers.google.com/drive/v3/web/install)
+ * [Drive App Examples](https://developers.google.com/drive/v3/web/examples/)
+ * [ngclipboard](https://sachinchoolur.github.io/ngclipboard/)
+ * [AngularJS Yarn-Webpack boilerplate](https://github.com/kenzanmedia/angularjs-webpack-seed)
 
 ### ExportLink script
 [ExportLink](https://google.com/?q=ExportLink+google+script)

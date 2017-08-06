@@ -5,6 +5,8 @@ Export options are supported for Google office suite documents.
 
 ```Note: Google office suite hereinafter referred to as the GOS.```
 
+## The Problem
+
 When you share a link to a file located on Google Drive your vis-a-vis 
 may face:
  * need to switch to a Google account in order to access GOS documents

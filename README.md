@@ -34,10 +34,10 @@ You may also want to track access activities.
  * Grant download access in a single click.
 
 ### Features
- * Convert and download link for GOS
+ * Convert-and-download link for GOS
  * GOS gets converted to MSO document, pdf, or other types
- * Google Sheets pdf export can be tuned
- * Direct download link for other types
+ * Customizable Google Sheets pdf export
+ * Direct download link for non-GOS file types
  * goo.gl url shortener embedded
  * access authorization shortcut
  

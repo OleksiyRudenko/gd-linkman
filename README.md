@@ -74,7 +74,7 @@ This app is based on the drive.file OAuth2 scope,
 where permission is granted only for individual files 
 that the user authorizes.
 
-[[back to contents]](#contents)
+[back to contents ^](#contents)
 
 ## Features explained
 
@@ -183,7 +183,7 @@ powers it is recommended to grant access on per folder basis.
 In either case consider possible negative consequences
 when granting any level of access.
 
-[[back to contents]](#contents)
+[back to contents ^](#contents)
 
 ## Installation
 
@@ -213,7 +213,7 @@ into the your app's configuration (in actual code).
 For ZIP Extractor, that configuration information in found
 in `config.js` under the `/js/linkman/` directory.
 
-[[back to contents]](#contents)
+[back to contents ^](#contents)
 
 ## Credits
 
@@ -222,13 +222,13 @@ and Google Drive Apps building practices:
  * [ZIP Extractor](https://github.com/googledrive/zipextractor)
  * [web-quickeditor](https://github.com/googledrive/web-quickeditor)
 
-[[back to contents]](#contents)
+[back to contents ^](#contents)
 
 ## Copyright
 
 © [Oleksiy Rudenko](https://github.com/OleksiyRudenko), 2017
 
-[[back to contents]](#contents)
+[back to contents ^](#contents)
 
 ## Resources
  * [Drive API](https://developers.google.com/drive/v3/web/install)
@@ -242,4 +242,4 @@ and Google Drive Apps building practices:
 is a script that also is able of generating links for
 individual sheets and slides.
 
-[[back to contents]](#contents)
+[back to contents ^](#contents)

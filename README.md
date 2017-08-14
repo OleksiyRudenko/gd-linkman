@@ -238,8 +238,8 @@ and Google Drive Apps building practices:
  * [AngularJS Yarn-Webpack Dev Environment](https://github.com/Matt-Dionis/angularjs-development-environment)
 
 ### ExportLink script
-[ExportLink](https://google.com/?q=ExportLink+google+script)
+~~The [ExportLink](https://google.com/?q=ExportLink+google+script)
 is a script that also is able of generating links for
-individual sheets and slides.
+individual sheets and slides.~~ Not available yet.
 
 [🔝 back to contents](#contents)

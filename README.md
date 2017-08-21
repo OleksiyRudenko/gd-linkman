@@ -223,6 +223,7 @@ These projects were used as a source of inspiration
 and Google Drive Apps building practices:
  * [ZIP Extractor](https://github.com/googledrive/zipextractor)
  * [web-quickeditor](https://github.com/googledrive/web-quickeditor)
+ * [Added support for dat and csv @github/commit](https://github.com/quistj/web-quickeditor/commit/33e806eeb1f0b039290b2fcf1dff6d2944a8227f)
 
 [🔝 back to contents](#contents)
 

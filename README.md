@@ -233,6 +233,13 @@ and Google Drive Apps building practices:
 * [Drive App Examples](https://developers.google.com/drive/v3/web/examples/)
 * [ngclipboard](https://sachinchoolur.github.io/ngclipboard/)
 
+
+### Notes
+
+For native google documents {exportIds} sent to an app
+instead of {ids}.
+[Details](https://developers.google.com/drive/v3/web/integrate-open)
+
 ### ExportLink script
 [ExportLink](https://google.com/?q=ExportLink+google+script)
 is a script that also is able of generating links for

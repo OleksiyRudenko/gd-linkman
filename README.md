@@ -240,6 +240,14 @@ For native google documents {exportIds} sent to an app
 instead of {ids}.
 [Details](https://developers.google.com/drive/v3/web/integrate-open)
 
+[File Meta-data](https://developers.google.com/drive/v2/web/file)
+
+### App publishing notes
+ * add API
+ * add and use credentials
+ * check app permissions before production
+ * verify your ownership of domain your app resides at
+
 ### ExportLink script
 [ExportLink](https://google.com/?q=ExportLink+google+script)
 is a script that also is able of generating links for

@@ -27,14 +27,14 @@ angular.module('linkman', ['linkman.login', 'linkman.drive', 'ngRoute', 'ngMater
   })
   .config(function ($routeProvider) {
     $routeProvider
-      .when('/edit/:fileId?', {
+      .when('/link/:fileId?', {
         templateUrl: 'main/main.html',
         controller: 'MainCtrl',
         controllerAs: 'ctrl'
       })
       .otherwise({
         redirectTo: function() {
-          return '/edit/';
+          return '/link/';
         }
       });
   });

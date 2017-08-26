@@ -248,6 +248,8 @@ instead of {ids}.
 
 [MIME-types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types)
 
+[Web-app checklist](https://developers.google.com/web/progressive-web-apps/checklist)
+
 ### App publishing notes
  * add API
  * add and use credentials

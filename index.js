@@ -18,7 +18,7 @@
 
 // Configure our app
 angular.module('linkman', ['linkman.login', 'linkman.drive', 'ngRoute', 'ngMaterial'])
-  .constant('apiKey', null)
+  .constant('apiKey', null) //  AIzaSyC5VUiphYhn2Hq_8rhPoizmLH1H20-SykI
   .constant('clientId', '709207149709-fadikftqudacphtr4pq5mu80s6tqklrb.apps.googleusercontent.com')
   .constant('applicationId', '768799796416')
   .constant('scope', ['email', 'profile', 'https://www.googleapis.com/auth/drive', 'https://www.googleapis.com/auth/drive.install'])

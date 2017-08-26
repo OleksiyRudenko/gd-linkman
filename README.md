@@ -246,6 +246,9 @@ instead of {ids}.
 
 [Web Store Listing](https://developers.google.com/drive/v2/web/listing)
 
+[Publishing](https://developers.google.com/apps-marketplace/listing)
+& [Integrate with button](https://developers.google.com/apps-marketplace/button)
+
 [MIME-types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types)
 
 [Web-app checklist](https://developers.google.com/web/progressive-web-apps/checklist)

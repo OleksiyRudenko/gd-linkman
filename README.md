@@ -242,6 +242,8 @@ instead of {ids}.
 
 [File Meta-data](https://developers.google.com/drive/v2/web/file)
 
+[File Properties](https://developers.google.com/drive/v2/web/properties)
+
 ### App publishing notes
  * add API
  * add and use credentials

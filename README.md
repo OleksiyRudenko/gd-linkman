@@ -244,6 +244,10 @@ instead of {ids}.
 
 [File Properties](https://developers.google.com/drive/v2/web/properties)
 
+[Web Store Listing](https://developers.google.com/drive/v2/web/listing)
+
+[MIME-types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types)
+
 ### App publishing notes
  * add API
  * add and use credentials

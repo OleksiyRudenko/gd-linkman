@@ -28,7 +28,7 @@ angular.module('linkman', ['linkman.login', 'linkman.drive', 'ngRoute', 'ngMater
   .config(function ($routeProvider) {
     $routeProvider
       .when('/link/:fileId?', {
-        templateUrl: 'main/main.html',
+        templateUrl: 'components/linkman/linkman-main.html',
         controller: 'MainCtrl',
         controllerAs: 'ctrl'
       })

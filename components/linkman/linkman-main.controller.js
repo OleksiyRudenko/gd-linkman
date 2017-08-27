@@ -66,7 +66,7 @@ module.controller('MainCtrl', ['$scope', '$location', '$routeParams', '$q', '$md
    */
   var redirectIfChanged = function(id) {
     if ($scope.file.metadata.id != id) {
-      $location.path('/edit/' + id);
+      $location.path('/link/' + id);
       $location.search('');
       $location.replace();
     }

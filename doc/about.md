@@ -1,4 +1,4 @@
-# About
+# Link Manager for Google Drive™
 
 Native sharing of files from Google Drive offers 
 opening native Google documents or preview mode 

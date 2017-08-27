@@ -1,14 +1,16 @@
-<md-toolbar ng-hide="loading" layout="row">
-    <div class="md-toolbar-tools">
-        <span flex>
-          <span>{{file.metadata.title}}<md-tooltip>File name</md-tooltip></span>
-        </span>
-        <md-button ng-click="ctrl.closeTab($event)" class="toolbar-action" hide-sm aria-label="Close tab">
-            <md-icon alt="close" md-font-icon="mdi mdi-close-circle"></md-icon>
-            <md-tooltip>Close tab</md-tooltip>
-        </md-button>
-    </div>
-</md-toolbar>
+<header>
+    <md-toolbar ng-hide="loading" md-scroll-shrink layout="row">
+        <div class="md-toolbar-tools">
+            <span flex>
+              <span>{{file.metadata.title}}<md-tooltip>File name</md-tooltip></span>
+            </span>
+            <md-button ng-click="ctrl.closeTab($event)" class="toolbar-action" hide-sm aria-label="Close tab">
+                <md-icon alt="close" md-font-icon="mdi mdi-close-circle"></md-icon>
+                <md-tooltip>Close tab</md-tooltip>
+            </md-button>
+        </div>
+    </md-toolbar>
+</header>
 <div ng-show="loading" layout-align="center center" flex layout="column">
     <md-progress-circular md-mode="indeterminate" ></md-progress-circular>
 </div>

@@ -42,6 +42,9 @@ angular.module('linkman', ['linkman.login', 'linkman.drive', 'ngRoute', 'ngMater
         // controller: 'MainCtrl',
         // controllerAs: 'ctrl'
       })
+      .when('/tos/', {
+        templateUrl: 'components/doc/tos.html'
+      })
       .otherwise({
         redirectTo: function() {
           return '/about/';

@@ -17,7 +17,7 @@
  */
 
 // Configure our app
-angular.module('linkman', ['linkman.login', 'linkman.drive', 'ngRoute', 'ngMaterial'])
+angular.module('linkman', ['linkman.login', 'linkman.drive', 'ngRoute', 'ngMaterial', 'hc.marked'])
   .constant('apiKey', null) //  AIzaSyC5VUiphYhn2Hq_8rhPoizmLH1H20-SykI
   .constant('clientId', ' 768799796416-doh1ogg8oflvcma5l776u05a2eb267dh.apps.googleusercontent.com')
   .constant('applicationId', '768799796416')

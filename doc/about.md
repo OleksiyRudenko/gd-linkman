@@ -38,7 +38,8 @@ incorporating those look neater.
 
 ## Support
 
-Please, contact the developer via ...
+Please, contact the developer via
+[GitHub](https://github.com/OleksiyRudenko)
 
 [Link Manager for Google Drive on GitHub](https://github.com/OleksiyRudenko/gd-linkman)
 

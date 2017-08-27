@@ -68,6 +68,8 @@ Notes:
  * `(6)` - Google Fusion Tables is an experimental
    application and not supported yet
  
+[Native Google documents conversion MIME-types](https://developers.google.com/drive/v3/web/integrate-open) 
+ 
 ### Security
 
 This app is based on the drive.file OAuth2 scope, 
@@ -171,6 +173,43 @@ link shortening will be available.
 
 If you feel it's time to start supporting Google Fusion Tables
 drop the [author](#copyright) a note on that.
+
+### Supported file types
+
+Registered MIME-types
+```text
+text/*
+application/*
+image/*
+video/*
+audio/*
+```
+
+Supported MIME-types (target list)
+```text
+text/plain
+application/octet-stream
+image/gif, image/png, image/jpeg, image/bmp, image/webp
+video/webm, video/ogg, video/mp4
+audio/mpeg, audio/webm, audio/ogg, audio/wav
+application/vnd.mspowerpoint, 
+application/xhtml+xml, application/xml
+application/pdf
+```
+
+Registered file extensions
+```text
+pdf, png, jpg, jpeg, 
+ppt, pptx, doc, docx, xls, xlsx,
+```
+
+Reserved MIME-types (not targeted)
+```text
+text/html, text/css, text/javascript
+audio/midi
+```
+
+[Native Google documents MIME-types](https://developers.google.com/drive/v3/web/mime-types)
 
 ### Access authorization shortcut
 

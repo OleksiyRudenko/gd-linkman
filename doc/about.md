@@ -1,6 +1,6 @@
 # ![Link Manager logo](https://oleksiyrudenko.github.io/gd-linkman/favicon-96x96.png "Link Manager logo") Link Manager for Google Drive™
 
-Native sharing of files from Google Drive offers 
+Native link sharing of files from Google Drive offers 
 opening native Google documents or preview mode 
 for other types of files.
 
@@ -34,7 +34,7 @@ Take care of your peers!
 
 Add url shortening feature to enable tracking
 and make links in emails or other documents
-incorpoarting those look neater.
+incorporating those look neater.
 
 ## Support
 

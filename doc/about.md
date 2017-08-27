@@ -34,7 +34,7 @@ Take care of your peers!
 
 Add url shortening feature to enable tracking
 and make links in emails or other documents
-incorpoarting those look neater.
+incorporating those look neater.
 
 ## Support
 

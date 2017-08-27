@@ -21,11 +21,12 @@ When you share a link to a file located on Google Drive your vis-a-vis may face:
 This tool will help you to improve your peers'
 experience when downloading files.
 
-You will also skip export-upload-share hassle 
+You will also skip _export-upload-share_ hassle 
 for native Google documents with sharing direct
 export-and-download links.
 
-This tool diminishes quite a few otherwise unavoidable actions, but on scale it saves lots of efforts.
+This tool diminishes quite a few otherwise unavoidable actions,
+but on scale it saves lots of efforts.
 
 Take care of your peers!
 

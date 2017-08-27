@@ -32,9 +32,14 @@ angular.module('linkman', ['linkman.login', 'linkman.drive', 'ngRoute', 'ngMater
         controller: 'MainCtrl',
         controllerAs: 'ctrl'
       })
+      .when('/about/', {
+        templateUrl: 'components/doc/about.html'
+        // controller: 'MainCtrl',
+        // controllerAs: 'ctrl'
+      })
       .otherwise({
         redirectTo: function() {
-          return '/link/';
+          return '/about/';
         }
       });
   });

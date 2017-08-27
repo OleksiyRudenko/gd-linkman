@@ -37,6 +37,11 @@ angular.module('linkman', ['linkman.login', 'linkman.drive', 'ngRoute', 'ngMater
         // controller: 'MainCtrl',
         // controllerAs: 'ctrl'
       })
+      .when('/privacypolicy/', {
+        templateUrl: 'components/doc/privacypolicy.html'
+        // controller: 'MainCtrl',
+        // controllerAs: 'ctrl'
+      })
       .otherwise({
         redirectTo: function() {
           return '/about/';

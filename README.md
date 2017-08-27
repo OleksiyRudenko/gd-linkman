@@ -5,6 +5,8 @@ Export options are supported for Google office suite documents.
 
 ```Note: native Google office suite documents hereinafter referred to as the NGD.```
 
+[Try it live](https://oleksiyrudenko.github.io/gd-linkman/)
+
 ## The Problem
 
 When you share a link to a file located on Google Drive your vis-a-vis 

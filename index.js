@@ -34,13 +34,9 @@ angular.module('linkman', ['linkman.login', 'linkman.drive', 'ngRoute', 'ngMater
       })
       .when('/about/', {
         templateUrl: 'components/doc/about.html'
-        // controller: 'MainCtrl',
-        // controllerAs: 'ctrl'
       })
       .when('/privacypolicy/', {
         templateUrl: 'components/doc/privacypolicy.html'
-        // controller: 'MainCtrl',
-        // controllerAs: 'ctrl'
       })
       .when('/tos/', {
         templateUrl: 'components/doc/tos.html'

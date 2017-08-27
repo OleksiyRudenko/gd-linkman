@@ -29,10 +29,6 @@ This tool diminishes quite a few otherwise unavoidable actions, but on scale it 
 
 Take care of your peers!
 
-## Installation
-
-
-
 ## To do
 
 Add url shortening feature to enable tracking
@@ -44,3 +40,5 @@ incorpoarting those look neater.
 Please, contact the developer via ...
 
 [Link Manager for Google Drive on GitHub](https://github.com/OleksiyRudenko/gd-linkman)
+
+## Install the tool

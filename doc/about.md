@@ -42,4 +42,5 @@ incorpoarting those look neater.
 ## Support
 
 Please, contact the developer via ...
-[Link Manager for Google Drive on <md-icon alt="github" md-font-icon="mdi mdi-github-circle"></md-icon> GitHub](https://github.com/OleksiyRudenko/gd-linkman)
+
+[Link Manager for Google Drive on GitHub](https://github.com/OleksiyRudenko/gd-linkman)

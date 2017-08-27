@@ -234,6 +234,10 @@ and Google Drive Apps building practices:
 * [ngclipboard](https://sachinchoolur.github.io/ngclipboard/)
 
 
+### Alternatives
+
+[Direct Link Creator app](http://directlink.booogle.net/)
+
 ### Notes
 
 For native google documents {exportIds} sent to an app

@@ -6,3 +6,7 @@ html, body {
     font-size: inherit !important;
     margin-left: 5px;
 }
+
+.maincontent {
+    overflow-y: auto;
+}

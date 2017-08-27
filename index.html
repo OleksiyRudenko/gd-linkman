@@ -24,6 +24,19 @@
     <![endif]-->
 
     <div flex layout-fill layout=column ng-view></div>
+    <footer>
+        <md-toolbar class="md-scroll-shrink" layout-padding>
+            <div layout="row" flex>
+                <div layout="row" layout-align="start center" flex>
+                    <a href="#!/about/"><md-button class="md-raised md-primary">About</md-button></a>
+                    <a href="#!/privacypolicy/"><md-button class="md-raised md-primary">Privacy Policy</md-button></a>
+                </div>
+                <div layout="row" layout-align="end center" flex>
+                    &copy; 2017, Oleksiy Rudenko
+                </div>
+            </div>
+        </md-toolbar>
+    </footer>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.5/angular.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-material/1.1.4/angular-material.min.js"></script>

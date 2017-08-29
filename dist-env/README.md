@@ -1,11 +1,11 @@
 # App for Google Drive Publication workflow
 
 ## Contents
- * [Subdirectories Structure](#subdirectories-structure)
+ * [Assets Storage Subdirectories Structure](#assets-storage-subdirectories-structure)
  * [Developer's Console](#developers-console)
  * [Chrome Web Store](#chrome-web-store)
 
-## Subdirectories Structure
+## Assets Storage Subdirectories Structure
 Assets
 ```text
 --- cws                  - assets for Chrome Web Store

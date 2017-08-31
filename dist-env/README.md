@@ -70,6 +70,7 @@ Go to Credentials and:
      the app hosted at
    - Add verified domain `APP_DOMAIN`
 
+Go to [Library](https://console.developers.google.com/apis/library)
  * Enable APIs `Google Drive API` and `Google Apps Marketplace SDK`
    (check sections below for details)
  *

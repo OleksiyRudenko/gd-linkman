@@ -40,10 +40,23 @@ APP_ROOT    = https://oleksiyrudenko.github.io/gd-linkman/
 APP_DOC_PP  = APP_ROOT/#!/privacypolicy/
 APP_DOC_TOS = APP_ROOT/#!/tos/
 
+APP_DESCR_SHORT =
+            Helps managing links to files and native Google documents stored on Google Drive.
+
+APP_DESCR_LONG =
+            Native sharing of files from Google Drive offers opening native Google documents or preview mode for other types of files.
+            This tool integrates with Google Drive and offers:
+             * convert-and-download direct links for native Google documents
+             * direct download links for other types of files
+            The tool doesn't take files content.
+
 ICO_URL     = APP_ROOT + [dimensions.ext]
               - any image filename with dimensions specified
               - png? - means any image format
               - 120x120max - means max size of 120px x 120px
+              Required ico dimensions:
+              - web-site : favicon.ico
+              - Google Drive UI Integration: png 256px, 128px, 64px, 32px, 16px
 
 ```
 
@@ -71,9 +84,14 @@ Go to [Credentials](https://console.developers.google.com/apis/credentials) and:
    - Add verified domain `APP_DOMAIN`
 
 Go to [Library](https://console.developers.google.com/apis/library)
- * Enable APIs `Google Drive API` and `Google Apps Marketplace SDK`
+ * Enable APIs `Google Drive API` (v2 at least) and `Google Apps Marketplace SDK`
    (check sections below for details)
- *
+
+Go to [Dashboard/Google Drive API/Drive UI Integration](https://console.developers.google.com/apis/api/drive.googleapis.com/drive_sdk)
+ * Use `APP_NAME`, `APP_DESCR_SHORT`, `APP_DESCR_LONG`
+ * Upload Application icons: 256px, 128px, 64px, 32px, 16px
+ * Upload Document icons (optional): 256px, 128px, 64px, 32px, 16px
+ * 
 
 
 ### Chrome Web Store

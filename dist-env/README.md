@@ -57,7 +57,7 @@ Navigate to [Google Dev Console](https://console.developers.google.com/apis/dash
  * Tap Button or Dropdown next to `Google APIs` logo and add a project
  * Complete the form
 
-Go to Credentials and:
+Go to [Credentials](https://console.developers.google.com/apis/credentials) and:
  * Create OAuth Client ID:
    - Name: `APP_NAME`
    - Authorized JS origins: `APP_DOMAIN`, `https://apis.google.com`

@@ -55,6 +55,7 @@ Make your app available at `APP_ROOT` (app default entry point).
 
 Navigate to [Google Dev Console](https://console.developers.google.com/apis/dashboard)
  * Tap Button or Dropdown next to `Google APIs` logo and add a project
+ * Complete the form
 
 Go to Credentials and:
  * Create OAuth Client ID:

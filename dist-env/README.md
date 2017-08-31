@@ -65,6 +65,9 @@ Go to Credentials and:
    - use `DEV_EMAIL`, `APP_NAME`, `APP_ROOT`
    - logo URL: `ICO_URL/120x120max.png?`
  * Domain verification
+   - [Verify domain](https://support.google.com/webmasters/answer/35179?hl=en)
+     the app hosted at
+   - Add verified domain `APP_DOMAIN`
 
  * Enable APIs `Google Drive API` and `Google Apps Marketplace SDK`
    (check sections below for details)

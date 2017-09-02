@@ -1,7 +1,7 @@
 {
   "name": "Link Manager for Google Drive™",
   "description": "Share direct download links, and export links for native Google documents",
-  "version": "0.0.0.2",
+  "version": "0.0.0.3",
   "manifest_version": 2,
   "icons": {
     "128": "ico-gd-linkman-cws-112in128x.png",

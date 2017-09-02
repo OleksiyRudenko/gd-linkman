@@ -15,7 +15,8 @@ Assets
  \- src                  - assets source
     |--- cws             - for Chrome Web Store
     |    \--- app-promo  - for App Promo
-    \--- ico-set         - icon set
+    \--- ico-set         - icon set for web-site/app
+         \--- extra      - extra icons for GAPI/CWS
 ```
 
 ## Integration and Publication

@@ -49,6 +49,7 @@ APP_OAUTH_SCOPES =
     
     See https://developers.google.com/drive/v2/web/about-auth
     and https://developers.google.com/identity/protocols/googlescopes
+    and https://developers.google.com/identity/protocols/OAuth2UserAgent
     for details.
     
 

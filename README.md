@@ -3,7 +3,8 @@
 A Google Drive application to manage file download and export links.
 Export options are supported for Google office suite documents.
 
-```Note: native Google office suite documents hereinafter referred to as the NGD.```
+> Note: native Google office suite documents hereinafter referred 
+to as the **NGD**.
 
 [Try it live](https://oleksiyrudenko.github.io/gd-linkman/)
 

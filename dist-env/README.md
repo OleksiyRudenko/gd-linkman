@@ -42,14 +42,16 @@ APP_DOC_PP  = APP_ROOT/#!/privacypolicy/
 APP_DOC_TOS = APP_ROOT/#!/tos/
 
 APP_DESCR_SHORT =
-            Helps managing links to files and native Google documents stored on Google Drive.
+            Improves experience with shared links to files and native Google documents stored on Google Drive.
 
 APP_DESCR_LONG =
             Native sharing of files from Google Drive offers opening native Google documents or preview mode for other types of files.
             This tool integrates with Google Drive and offers:
              * convert-and-download direct links for native Google documents
              * direct download links for other types of files
-            The tool doesn't take files content.
+             [* create and manage short links
+             * instant stats on shared links access]
+            The tool doesn't fetch files contents.
 
 ICO_URL     = APP_ROOT + [dimensions.ext]
               - any image filename with dimensions specified

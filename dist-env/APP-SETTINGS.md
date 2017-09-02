@@ -38,4 +38,18 @@ ICO_URL     = APP_ROOT + [dimensions.ext]
               - web-site : favicon.ico
               - Google Drive UI Integration: png 256px, 128px, 64px, 32px, 16px
 
+APP_OAUTH_SCOPES =
+            https://www.googleapis.com/auth/userinfo.email
+            https://www.googleapis.com/auth/userinfo.profile
+            https://www.googleapis.com/auth/drive.install
+            https://www.googleapis.com/auth/drive.file
+            https://www.googleapis.com/auth/drive.metadata
+            https://www.googleapis.com/auth/drive
+            
+    
+    See https://developers.google.com/drive/v2/web/about-auth
+    and https://developers.google.com/identity/protocols/googlescopes
+    for details.
+    
+
 ```

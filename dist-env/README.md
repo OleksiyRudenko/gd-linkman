@@ -37,6 +37,9 @@ DEV_EMAIL   = oleksiy.rudenko@gmail.com
 APP_NAME    = Link Manager for Google Drive
 APP_DOMAIN  = https://oleksiyrudenko.github.io
 APP_ROOT    = https://oleksiyrudenko.github.io/gd-linkman/
+APP_OPEN    = APP_ROOT/#!/link/{ids}
+   See https://developers.google.com/drive/v3/web/enable-sdk#open_url
+   for more tokens.
 
 APP_DOC_PP  = APP_ROOT/#!/privacypolicy/
 APP_DOC_TOS = APP_ROOT/#!/tos/
@@ -97,7 +100,13 @@ Go to [Dashboard/Google Drive API/Drive UI Integration](https://console.develope
  * Upload Application icons: 256px, 128px, 64px, 32px, 16px
  * Upload Document icons (if app can create/open specific doc type):
    256px, 128px, 64px, 32px, 16px
- * 
+ * Drive Integration:
+   - **do not** check `Automatically show OAuth 2.0 
+     consent screen...` as it is not supported anymore
+   - USE `APP_OPEN`
+   - Default MIME types and extensions - that app can CREATE
+   - Secondary MIME types and extensions - that app can OPEN.
+     See [supported MIME-types](../MIME-TYPES.md) for details.
 
 
 ### Chrome Web Store

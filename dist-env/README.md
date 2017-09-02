@@ -77,7 +77,7 @@ Go to [Credentials](https://console.developers.google.com/apis/credentials) and:
    - Authorized redirect URIs: `APP_ROOT`
  * OAuth Consent Screen:
    - use `DEV_EMAIL`, `APP_NAME`, `APP_ROOT`
-   - logo URL: `ICO_URL/120x120max.png?`
+   - logo URL: `ICO_URL/120x120max.png?` (`ICO_URL/img/ico-cws-gapi-120x.png`)
  * Domain verification
    - [Verify domain](https://support.google.com/webmasters/answer/35179?hl=en)
      the app hosted at
@@ -90,7 +90,8 @@ Go to [Library](https://console.developers.google.com/apis/library)
 Go to [Dashboard/Google Drive API/Drive UI Integration](https://console.developers.google.com/apis/api/drive.googleapis.com/drive_sdk)
  * Use `APP_NAME`, `APP_DESCR_SHORT`, `APP_DESCR_LONG`
  * Upload Application icons: 256px, 128px, 64px, 32px, 16px
- * Upload Document icons (optional): 256px, 128px, 64px, 32px, 16px
+ * Upload Document icons (if app can create/open specific doc type):
+   256px, 128px, 64px, 32px, 16px
  * 
 
 

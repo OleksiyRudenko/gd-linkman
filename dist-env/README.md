@@ -34,6 +34,7 @@ The particular URLs are specific to this app.
 ```text
 DEV_EMAIL   = oleksiy.rudenko@gmail.com
 
+APP_ID      = 768799796416
 APP_NAME    = Link Manager for Google Drive
 APP_DOMAIN  = https://oleksiyrudenko.github.io
 APP_ROOT    = https://oleksiyrudenko.github.io/gd-linkman/
@@ -107,7 +108,11 @@ Go to [Dashboard/Google Drive API/Drive UI Integration](https://console.develope
    - Default MIME types and extensions - that app can CREATE
    - Secondary MIME types and extensions - that app can OPEN.
      See [supported MIME-types](../MIME-TYPES.md) for details.
-
+   - [ ] Creating files
+   - [ ] Multiple file support
+   - [x] Importing
+   - [x] Mobile browser support
+   - [x] Team Drives support
 
 ### Chrome Web Store
 

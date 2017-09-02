@@ -46,7 +46,7 @@ APP_DOC_PP  = APP_ROOT/#!/privacypolicy/
 APP_DOC_TOS = APP_ROOT/#!/tos/
 
 APP_DESCR_SHORT =
-            Improves experience with shared links to files and native Google documents stored on Google Drive.
+            Share export-and-download links for native Google documents and direct download links for other types.
 
 APP_DESCR_LONG =
             Native sharing of files from Google Drive offers opening native Google documents or preview mode for other types of files.

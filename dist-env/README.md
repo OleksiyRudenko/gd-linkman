@@ -83,7 +83,14 @@ Go to [Dashboard/Google Apps Marketplace SDK/Configuration](https://console.deve
  * Complete Application info using `APP_NAME` and `APP_DESCR_SHORT`
  * [x] Enable individual install
  * Upload Application icons: 128px, 96px, 48px, 32px
- * Use `APP_DOC_TOS` and `APP_DOC_PP` 
+ * Use `APP_DOC_TOS` and `APP_DOC_PP`
+ * Complete the following if applicable:
+   - Setup URL (Optional)
+   - Admin config URL (Optional)
+   - Support URL (Optional)
+   - Deletion policy URL (Optional)
+ * Populate OAuth 2.0 scopes from `APP_OAUTH_SCOPES`
+ 
 
 ### Chrome Web Store
 

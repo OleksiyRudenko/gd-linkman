@@ -40,6 +40,10 @@ Make your app available at `APP_ROOT` (app default entry point).
 
 ### Developer's Console
 
+[Helpful official docs](https://developers.google.com/apps-marketplace/preparing)
+
+[Unofficial tutorial re G Suite for Businesses app](http://youdontneedacrm.tumblr.com/post/81479000201/tutorial-create-your-application-in-google-marketplace)
+
 Navigate to [Google Dev Console](https://console.developers.google.com/apis/dashboard)
  * Tap Button or Dropdown next to `Google APIs` logo and add a project
  * Complete the form

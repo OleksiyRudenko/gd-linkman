@@ -113,6 +113,9 @@ Go to [Dashboard/Google Drive API/Drive UI Integration](https://console.develope
    - [x] Importing
    - [x] Mobile browser support
    - [x] Team Drives support
+   
+Go to [Dashboard/Google Apps Marketplace SDK/Configuration](https://console.developers.google.com/apis/api/appsmarket-component.googleapis.com/googleapps_sdk)
+ * Complete Application info using `APP_NAME` and `APP_DESCR_SHORT`
 
 ### Chrome Web Store
 

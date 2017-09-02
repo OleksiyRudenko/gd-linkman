@@ -30,10 +30,11 @@ You may also want to track access activities.
 
 ## Solution
 
- * Convert NGD into Microsoft Office or other 
-   types on the fly.
- * Provide vis-a-vis with a direct download link.
- * Grant download access in a single click.
+This tool integrates with Google Drive and offers:
+ * convert-and-download direct links for native Google documents
+ * direct download links for other types of files
+
+The tool doesn't fetch files contents.
 
 ### Features
  * Convert and download link for NGD

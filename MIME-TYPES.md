@@ -17,6 +17,9 @@ Resources:
 
 ### Native Google Documents
 
+[Google Drive v2](https://developers.google.com/drive/v2/web/mime-types)
+
+
 ### Other types
 
 ## NGD conversion map

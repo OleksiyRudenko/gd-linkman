@@ -116,6 +116,9 @@ Go to [Dashboard/Google Drive API/Drive UI Integration](https://console.develope
    
 Go to [Dashboard/Google Apps Marketplace SDK/Configuration](https://console.developers.google.com/apis/api/appsmarket-component.googleapis.com/googleapps_sdk)
  * Complete Application info using `APP_NAME` and `APP_DESCR_SHORT`
+ * [x] Enable individual install
+ * Upload Application icons: 128px, 96px, 48px, 32px
+ * Use `APP_DOC_TOS` and `APP_DOC_PP` 
 
 ### Chrome Web Store
 

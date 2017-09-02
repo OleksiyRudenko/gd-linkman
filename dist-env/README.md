@@ -8,7 +8,7 @@
 ## Assets Storage Subdirectories Structure
 Assets
 ```text
---- cws                  - assets for Chrome Web Store
+--- cws                  - assets for Chrome Web Store; images are taken from src/*
  |  |--- app-manifest    - App Manifest Pack
  |  \--- app-promo       - App Promo assets
  |

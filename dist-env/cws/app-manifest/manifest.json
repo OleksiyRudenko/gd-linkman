@@ -4,8 +4,8 @@
   "version": "0.0.0.2",
   "manifest_version": 2,
   "icons": {
-    "128": "favicon-96x-in-128x.png",
-	"16":  "gapi-16x.png"
+    "128": "ico-gd-linkman-cws-112in128x.png",
+	"16":  "ico-cws-gapi-16x.png"
   },
   "container": ["DOMAIN_INSTALLABLE", "GOOGLE_DRIVE"],
   "api_console_project_id": "768799796416",

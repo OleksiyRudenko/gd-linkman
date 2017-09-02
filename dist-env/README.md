@@ -94,6 +94,14 @@ Go to [Dashboard/Google Apps Marketplace SDK/Configuration](https://console.deve
    - Support URL (Optional)
    - Deletion policy URL (Optional)
  * Populate OAuth 2.0 scopes from `APP_OAUTH_SCOPES`
+ * Extensions
+   - [ ] Universal navigation extension 
+   - [x] Drive extension
+   - [ ] Gmail contextual gadget extension
+ * Add-on extensions
+   - [ ] Docs add-on extension
+   - [ ] Sheets add-on extension
+   - [ ] Forms add-on extension 
  
 
 ### Chrome Web Store

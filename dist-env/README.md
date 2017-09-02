@@ -49,8 +49,10 @@ APP_DESCR_LONG =
             This tool integrates with Google Drive and offers:
              * convert-and-download direct links for native Google documents
              * direct download links for other types of files
-             [* create and manage short links
-             * instant stats on shared links access]
+             [* create and manage short links]
+             [* instant stats on shared links access]
+             [* granting file view/download "anyone with the link" 
+                access in a single click]
             The tool doesn't fetch files contents.
 
 ICO_URL     = APP_ROOT + [dimensions.ext]

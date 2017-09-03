@@ -43,7 +43,7 @@ angular.module('linkman', ['linkman.login', 'linkman.drive', 'ngRoute', 'ngMater
       })
       .otherwise({
         redirectTo: function() {
-          return '/about/';
+          return '/edit/';            /* to serve auth callback properly */
         }
       });
   });

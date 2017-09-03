@@ -40,9 +40,14 @@ Make your app available at `APP_ROOT` (app default entry point).
 
 ### Developer's Console
 
-[Helpful official docs](https://developers.google.com/apps-marketplace/preparing)
-
-[Unofficial tutorial re G Suite for Businesses app](http://youdontneedacrm.tumblr.com/post/81479000201/tutorial-create-your-application-in-google-marketplace)
+Helpful docs:
+ * [Apps Marketplace - Set Up the Project](https://developers.google.com/apps-marketplace/preparing)
+ * Create a Chrome Web Store Listing:
+   - [Drive API v2](https://developers.google.com/drive/v2/web/listing)
+   - [Drive API v3](https://developers.google.com/drive/v3/web/listing)
+ * [Using OAuth 2.0 to Access Google APIs](https://developers.google.com/identity/protocols/OAuth2)
+ * [Google OAuth Playground](https://developers.google.com/oauthplayground/)
+ * [Unofficial tutorial re G Suite for Businesses app](http://youdontneedacrm.tumblr.com/post/81479000201/tutorial-create-your-application-in-google-marketplace)
 
 Navigate to [Google Dev Console](https://console.developers.google.com/apis/dashboard)
  * Tap Button or Dropdown next to `Google APIs` logo and add a project

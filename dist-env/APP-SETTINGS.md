@@ -16,7 +16,7 @@ APP_NAME_SHORT =
               Drive Link Manager
 APP_DOMAIN  = https://oleksiyrudenko.github.io
 APP_ROOT    = https://oleksiyrudenko.github.io/gd-linkman/
-APP_OPEN    = APP_ROOT/#!/link/{ids}
+APP_OPEN    = APP_ROOT/#!/link/{ids}{exportIds}
 
 APP_DOC_PP  = APP_ROOT/#!/privacypolicy/
 APP_DOC_TOS = APP_ROOT/#!/tos/

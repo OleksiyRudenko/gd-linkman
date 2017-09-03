@@ -112,6 +112,8 @@ Go to [Dashboard/Google Apps Marketplace SDK/Configuration](https://console.deve
 
 Go to [CWS Developer Dashboard](https://chrome.google.com/webstore/developer/dashboard)
 
+> [CWS Publishing Guidelines](https://developer.chrome.com/webstore/publish?hl=en-US#step2)
+
 At **Developer account** section complete at least:
  * Developer display name
  * Link to developer's privacy policy

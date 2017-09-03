@@ -2,6 +2,11 @@
 
 The tokens below are referred to in [README.md](README.md).
 
+`[Bracketed pieces]` are reservations for future use.
+
+Also check [Reference section](#reference) for related 
+useful resources.
+
 ```text
 DEV_EMAIL   = oleksiy.rudenko@gmail.com
 
@@ -10,8 +15,6 @@ APP_NAME    = Link Manager for Google Drive
 APP_DOMAIN  = https://oleksiyrudenko.github.io
 APP_ROOT    = https://oleksiyrudenko.github.io/gd-linkman/
 APP_OPEN    = APP_ROOT/#!/link/{ids}
-   See https://developers.google.com/drive/v3/web/enable-sdk#open_url
-   for more tokens.
 
 APP_DOC_PP  = APP_ROOT/#!/privacypolicy/
 APP_DOC_TOS = APP_ROOT/#!/tos/
@@ -45,12 +48,14 @@ APP_OAUTH_SCOPES =
             https://www.googleapis.com/auth/drive.file
             https://www.googleapis.com/auth/drive.metadata
             https://www.googleapis.com/auth/drive
-            
-    
-    See https://developers.google.com/drive/v2/web/about-auth
-    and https://developers.google.com/identity/protocols/googlescopes
-    and https://developers.google.com/identity/protocols/OAuth2UserAgent
-    for details.
-    
-
 ```
+
+## Reference
+
+ * [App Open URL Tokens](https://developers.google.com/drive/v3/web/enable-sdk#open_url)
+ * OAuth Scopes:
+   - [Drive API v2 Auth](https://developers.google.com/drive/v2/web/about-auth)
+   - [Drive API v3 Auth](https://developers.google.com/drive/v3/web/about-auth)
+   - [OAuth 2.0 Scopes for Google APIs](https://developers.google.com/identity/protocols/googlescopes)
+   - [OAuth 2.0 for Client-side Web Applications](https://developers.google.com/identity/protocols/OAuth2UserAgent)
+ 

@@ -1,6 +1,7 @@
 {
   "name": "Link Manager for Google Drive™",
-  "description": "Share direct download links, and export links for native Google documents",
+  "short_name": "Drive Link Manager",
+  "description": "Share export-and-download links for native Google documents and direct download links for other types.",
   "version": "0.0.0.3",
   "manifest_version": 2,
   "icons": {

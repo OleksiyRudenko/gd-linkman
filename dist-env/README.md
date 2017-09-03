@@ -108,6 +108,64 @@ Go to [Dashboard/Google Apps Marketplace SDK/Configuration](https://console.deve
    - [ ] Sheets add-on extension
    - [ ] Forms add-on extension 
  
-
 ### Chrome Web Store
 
+Go to [CWS Developer Dashboard](https://chrome.google.com/webstore/developer/dashboard)
+
+At **Developer account** section complete at least:
+ * Developer display name
+ * Link to developer's privacy policy
+ * Tester accounts (e.g. your own email) to test installation and operation
+
+#### App Manifest
+Prepare [App Manifest pack](cws/app-manifest/) using icons and other
+relevant app data, and have it zipped.
+
+Note `container` section of `manifest.json`:
+ * `"GOOGLE_DRIVE"` - allows Google Drive integration
+ * `["DOMAIN_INSTALLABLE", "GOOGLE_DRIVE"],` - also 
+   allows Google for Business admins add the app to their domains
+   internal listing
+
+#### App Imagery
+Prepare required imagery:
+ * [CWS](https://developer.chrome.com/webstore/images?hl=en-US#promo)
+ * [Branding Drive apps](https://developers.google.com/drive/v3/web/branding)
+ * [CWS Branding guidelines](https://developer.chrome.com/webstore/branding)
+ * [Listing the app](https://developers.google.com/apps-marketplace/listing)
+
+#### Put App on Listing
+Add new item and:
+ * Upload zipped App manifest pack
+ * Use `APP_DESCR_CWS`
+ * Use 128x128 transparent background icon where visual part is:
+   - 112x112 if round
+   - 96x96 otherwise
+ * Add [illustrations](cws/app-promo):
+   - 1280x800 or 640x400 screenshots
+   - link to a video on youtube
+   - 440x280 and optionally 920x680 promo tile
+   - optional 1440x560 promo marquee
+ * Websites:
+   - choose one of your verified web-sites
+   - NON-INSTALLATION link to the app
+   - optional FAQ and Support link
+ * Choose category (Office Applications)
+ * Keep the app free
+ * Choose regions
+ * Skip Google Play for Education
+ * Inline install -?
+ * Add Google Analytics id if applicable
+ * Visibility options:
+   - private for test purposes
+   - public when ready to roll out
+ 
+ **Preview** listing and note CWS Url:
+ 
+ `https://chrome.google.com/webstore/detail/njfcealcnfjoabcpmpjlefboocmlkeae/preview?hl=en-US&gl=UA`
+  
+ Remove trailing `/preview...`.
+ This the direct link to your app listing at CWS.
+ Use it to distribute app among testers.
+ 
+ **Publish** for to changes take effect.

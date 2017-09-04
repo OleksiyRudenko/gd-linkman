@@ -31,7 +31,7 @@ define here "variables" that will be referred to in the following sections.
 
 The particular URLs are specific to this app.
 
-Check [App Settings](APP_SETTINGS.md) for token referred to
+Check [App Settings](APP_SETTINGS.md) for tokens referred to
 in this document.
 
 ### Distribution
@@ -67,8 +67,11 @@ Go to [Credentials](https://console.developers.google.com/apis/credentials) and:
    - Add verified domain `APP_DOMAIN`
 
 Go to [Library](https://console.developers.google.com/apis/library)
- * Enable APIs `Google Drive API` (v2 at least) and `Google Apps Marketplace SDK`
-   (check sections below for details)
+ * Enable APIs:
+   - `Google Drive API` (v2 at least)
+   - `Google Apps Marketplace SDK`
+   - `Google+ API`
+   - `Contacts API`
 
 Go to [Dashboard/Google Drive API/Drive UI Integration](https://console.developers.google.com/apis/api/drive.googleapis.com/drive_sdk)
  * Use `APP_NAME`, `APP_DESCR_SHORT`, `APP_DESCR_LONG`

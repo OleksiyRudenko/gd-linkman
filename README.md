@@ -275,6 +275,7 @@ and Google Drive Apps building practices:
 * [Drive API](https://developers.google.com/drive/v3/web/install)
 * [Drive App Examples](https://developers.google.com/drive/v3/web/examples/)
 * [ngclipboard](https://sachinchoolur.github.io/ngclipboard/)
+* [Google API Client Library for JavaScript](https://github.com/google/google-api-javascript-client) [170523]
 
 
 ### Alternatives

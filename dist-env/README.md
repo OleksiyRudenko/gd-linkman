@@ -31,7 +31,7 @@ define here "variables" that will be referred to in the following sections.
 
 The particular URLs are specific to this app.
 
-Check [App Settings](APP_SETTINGS.md) for tokens referred to
+Check [App Settings](APP-SETTINGS.md) for tokens referred to
 in this document.
 
 ### Distribution

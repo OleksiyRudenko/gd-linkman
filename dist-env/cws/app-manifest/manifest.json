@@ -1,0 +1,21 @@
+{
+  "name": "Link Manager for Google Drive™",
+  "short_name": "Drive Link Manager",
+  "description": "Share export-and-download links for native Google documents and direct download links for other types.",
+  "version": "0.0.0.3",
+  "manifest_version": 2,
+  "icons": {
+    "128": "ico-gd-linkman-cws-112in128x.png",
+	"16":  "ico-cws-gapi-16x.png"
+  },
+  "container": ["DOMAIN_INSTALLABLE", "GOOGLE_DRIVE"],
+  "api_console_project_id": "768799796416",
+  "app": {
+    "urls": [
+      "https://oleksiyrudenko.github.io/gd-linkman/"
+    ],
+    "launch": {
+      "web_url": "https://oleksiyrudenko.github.io/gd-linkman/"
+    }
+  }
+}

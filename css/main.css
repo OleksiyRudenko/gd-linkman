@@ -1,0 +1,12 @@
+html, body {
+    height: 100%;
+}
+
+.toolbar-action {
+    font-size: inherit !important;
+    margin-left: 5px;
+}
+
+.maincontent {
+    overflow-y: auto;
+}

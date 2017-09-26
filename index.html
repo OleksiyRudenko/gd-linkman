@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js" ng-app="linkman">
+<head>
+    <meta charset="UTF-8">
+    <title>Link Manager for Google Drive™</title>
+    <!-- icons made with http://www.favicon-generator.org/ -->
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="https://cdn.rawgit.com/h5bp/html5-boilerplate/5.3.0/dist/css/normalize.css">
+    <link rel="stylesheet" href="https://cdn.rawgit.com/h5bp/html5-boilerplate/5.3.0/dist/css/main.css">
+    <link rel="stylesheet" href="//cdn.materialdesignicons.com/2.0.46/css/materialdesignicons.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/angular-material/1.1.4/angular-material.css">
+    <link rel="stylesheet" href="css/main.css" />
+
+    <script src="https://cdn.rawgit.com/h5bp/html5-boilerplate/5.3.0/dist/js/vendor/modernizr-2.8.3.min.js"></script>
+    <script type="text/javascript" src="https://apis.google.com/js/platform.js"></script>
+</head>
+<body layout="column">
+    <!--[if lt IE 10]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser.
+            Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <div flex layout-fill layout=column ng-view></div>
+    <footer>
+        <md-toolbar class="md-scroll-shrink" layout-padding>
+            <div layout="row" flex>
+                <div layout="row" layout-align="start center" flex>
+                    <a href="#!/about/"><md-button class="md-raised md-primary">About</md-button></a>
+                    <!-- https://chrome.google.com/webstore/search/Link%20Manager?_feature=drive&_category=app/69-office-applications -->
+                    <a href="#!/privacypolicy/"><md-button class="md-raised md-primary">Privacy Policy</md-button></a>
+                    <a href="#!/tos/"><md-button class="md-raised md-primary">Terms of Service</md-button></a>
+                </div>
+                <div layout="row" layout-align="end center" flex>
+                    <div>&copy; 2017, Oleksiy Rudenko</div>
+                    <div layout-padding>
+                        <a href="https://github.com/OleksiyRudenko/gd-linkman" target="_blank">
+                            <md-icon alt="jump to GitHub" md-font-icon="mdi mdi-github-circle"></md-icon>
+                            <md-tooltip md-direction="top">Link Manager for Google Drive at GitHub</md-tooltip>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </md-toolbar>
+    </footer>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.5/angular.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-material/1.1.4/angular-material.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.5/angular-animate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.5/angular-aria.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.5/angular-cookies.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.5/angular-messages.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.5/angular-sanitize.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.5/angular-touch.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.5/angular-route.min.js"></script>
+    <script src="https://cdn.rawgit.com/chjj/marked/8f9d0b72/lib/marked.js"></script>
+    <script src="https://cdn.rawgit.com/Hypercubed/angular-marked/c10be543/dist/angular-marked.min.js"></script>
+    <script type="text/javascript" src="components/gapi/gapi.js"></script>
+    <script type="text/javascript" src="components/drive/drive.service.js"></script>
+    <script type="text/javascript" src="components/login/login.controller.js"></script>
+    <script type="text/javascript" src="components/login/login.service.js"></script>
+    <script type="text/javascript" src="index.js"></script>
+    <script type="text/javascript" src="components/linkman/linkman-main.controller.js"></script>
+
+    <!-- script type="text/javascript">
+      console.log("About to load GAPI");
+    </script -->
+    <!-- script src="https://apis.google.com/js/drive-share:picker:client:platform.js?onload=on_gapi_loaded"></script -->
+    <script src="https://apis.google.com/js/client:platform.js?onload=on_gapi_loaded"></script>
+    <!-- https://developers.google.com/identity/protocols/googlescopes -->
+</body>
+</html>

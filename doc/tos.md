@@ -175,7 +175,11 @@ and without any obligation to you.
 
 You may end your legal agreement with the Service provider at any time by 
 deactivating
-your accounts and discontinuing your use of the Services. 
+your accounts and discontinuing your use of the Services.
+
+Please, refer to section
+[Remove Google Drive Apps](https://support.google.com/drive/answer/2500820)
+on Google Drive Help for further details.
 
 We may suspend or terminate your account or cease providing you with
 all or part of the Services at any time for any or no reason, including, 

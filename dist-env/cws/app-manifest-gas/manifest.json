@@ -9,7 +9,7 @@
   "container": ["DOMAIN_INSTALLABLE", "GOOGLE_DRIVE"],
   "app": {
     "urls":
-    ["https://oleksiyrudenko.github.io/gd-linkman/"],
+    ["https://script.google.com/macros/s/AKfycbzkhmrAd5XDWPEjMg2LWZjwZzB_QzU77RYCBh5fk9OXsoqO7jyY/exec"],
     "launch":
     {"web_url":"https://script.google.com/macros/s/AKfycbzkhmrAd5XDWPEjMg2LWZjwZzB_QzU77RYCBh5fk9OXsoqO7jyY/exec"}
   },

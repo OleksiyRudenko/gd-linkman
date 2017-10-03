@@ -34,11 +34,11 @@ Take care of your peers!
 
 The best way to install tool is via [Google Drive](https://drive.google.com/)
 
-![Installation step 1](https://cdn.rawgit.com/OleksiyRudenko/link-manager-for-google-drive-gas/c6bc52d2/assets/cws/cws-promo/sshot-00-gd-install-01(640x400).png)
+![Installation step 1](https://cdn.rawgit.com/OleksiyRudenko/gd-linkman/58620ca1/dist-env/cws/app-promo/sshot-00-gd-install-01--640x400.png)
 
-![Installation step 2](https://cdn.rawgit.com/OleksiyRudenko/link-manager-for-google-drive-gas/c6bc52d2/assets/cws/cws-promo/sshot-00-gd-install-02(640x400).png)
+![Installation step 2](https://cdn.rawgit.com/OleksiyRudenko/gd-linkman/58620ca1/dist-env/cws/app-promo/sshot-00-gd-install-02--640x400.png)
 
-![Installation step 3](https://cdn.rawgit.com/OleksiyRudenko/link-manager-for-google-drive-gas/c6bc52d2/assets/cws/cws-promo/sshot-00-gd-install-03(640x400).png)
+![Installation step 3](https://cdn.rawgit.com/OleksiyRudenko/gd-linkman/58620ca1/dist-env/cws/app-promo/sshot-00-gd-install-03--640x400.png)
 
 Go to [Google Drive](https://drive.google.com/) and
 1. click `NEW`

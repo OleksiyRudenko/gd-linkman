@@ -30,6 +30,27 @@ but on scale it saves lots of efforts.
 
 Take care of your peers!
 
+## Installation
+
+The best way to install tool is via [Google Drive](https://drive.google.com/)
+
+![Installation step 1](https://cdn.rawgit.com/OleksiyRudenko/link-manager-for-google-drive-gas/c6bc52d2/assets/cws/cws-promo/sshot-00-gd-install-01(640x400).png)
+
+![Installation step 2](https://cdn.rawgit.com/OleksiyRudenko/link-manager-for-google-drive-gas/c6bc52d2/assets/cws/cws-promo/sshot-00-gd-install-02(640x400).png)
+
+![Installation step 3](https://cdn.rawgit.com/OleksiyRudenko/link-manager-for-google-drive-gas/c6bc52d2/assets/cws/cws-promo/sshot-00-gd-install-03(640x400).png)
+
+Go to [Google Drive](https://drive.google.com/) and
+1. click `NEW`
+1. click `More`
+1. click `+ Connect more apps`
+1. search for `Link manager`
+1. click `+ CONNECT` on Link Manager for Google Drive
+1. review permissions and allow access if you are OK with those
+1. keep the checkbox making Link Manager the default app for files
+   it can open ticked and click `OK`
+
+
 ## To do
 
 Add url shortening feature to enable tracking
@@ -41,11 +62,3 @@ incorporating those look neater.
 Please, contact the developer via
 [GitHub](https://github.com/OleksiyRudenko)
 
-[Link Manager for Google Drive on GitHub](https://github.com/OleksiyRudenko/gd-linkman)
-
-If you like this tool and want to support features development
-please consider donating any amount of
-[BTC](https://blockchain.info/address/15dxc4r17yrtpSR8Q6T7u49qve9WRzQpEG)
-.
-
-## Install the tool

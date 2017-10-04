@@ -301,6 +301,8 @@ instead of {ids}.
 
 [Web-app checklist](https://developers.google.com/web/progressive-web-apps/checklist)
 
+[Google Drive API by example](http://bytutorial.com/tutorials/google-api/introduction-to-google-drive-api-using-javascript)
+
 ### App publishing notes
  * add API
  * add and use credentials
